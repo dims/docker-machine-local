@@ -1,2 +1,2 @@
-cmd/docker-machine-driver-kvm/docker-machine-driver-kvm
+cmd/docker-machine-driver-local/docker-machine-driver-local
 *.sw*
