@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/dims/docker-machine-local"
+	local "github.com/dims/docker-machine-local"
 	"github.com/docker/machine/libmachine/drivers/plugin"
 )
 
